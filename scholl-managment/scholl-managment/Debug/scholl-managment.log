@@ -1,0 +1,18 @@
+﻿  createDatabase.cpp
+  main.cpp
+  tableAttendance.cpp
+  tableGrades.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableAttendance.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableLesson.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableGrades.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableNotes.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableLesson.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableStudent.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableNotes.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableSubject.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableStudent.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableTeacher.cpp
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableSubject.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\PC\source\repos\scholl-managment\scholl-managment\tableTeacher.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  scholl-managment.vcxproj -> C:\Users\PC\source\repos\scholl-managment\Debug\school-managment.exe
