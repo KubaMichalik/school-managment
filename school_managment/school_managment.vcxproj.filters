@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Database">
+      <UniqueIdentifier>{df7ce3cc-ee28-4234-ae7b-3190c06dbff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Database\Tables">
+      <UniqueIdentifier>{b876465c-195f-493e-9853-902e0dc4c407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Database">
+      <UniqueIdentifier>{fcadad52-e457-457a-81c3-97c04db7f310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Database\Tables">
+      <UniqueIdentifier>{f6fbe6ca-419a-4b3a-be93-198fc6670340}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableGrades.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableAttendance.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableLesson.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableNotes.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableStudent.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableSubject.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\tableTeacher.cpp">
+      <Filter>Pliki źródłowe\Database\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\createDatabase.cpp">
+      <Filter>Pliki źródłowe\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\nokia\sqlite3.c">
+      <Filter>Pliki źródłowe\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="teacher.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="student.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="admin.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableTeacher.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableSubject.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableStudent.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableLesson.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableAttendance.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableGrades.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\tableNotes.h">
+      <Filter>Pliki nagłówkowe\Database\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\nokia\createDatabase.h">
+      <Filter>Pliki nagłówkowe\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="admin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="teacher.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

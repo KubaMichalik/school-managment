@@ -1,0 +1,19 @@
+﻿  createDatabase.cpp
+  main.cpp
+  tableAttendance.cpp
+C:\Users\Lenovo\Desktop\nokia\tableAttendance.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableGrades.cpp
+C:\Users\Lenovo\Desktop\nokia\tableGrades.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableLesson.cpp
+C:\Users\Lenovo\Desktop\nokia\tableLesson.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableNotes.cpp
+C:\Users\Lenovo\Desktop\nokia\tableNotes.cpp(15,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableStudent.cpp
+C:\Users\Lenovo\Desktop\nokia\tableStudent.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableSubject.cpp
+C:\Users\Lenovo\Desktop\nokia\tableSubject.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  tableTeacher.cpp
+C:\Users\Lenovo\Desktop\nokia\tableTeacher.cpp(16,11): warning C4101: "DB": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  sqlite3.c
+  school_managment.vcxproj -> C:\Users\Lenovo\source\repos\school_managment\x64\Debug\school_managment.exe
