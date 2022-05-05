@@ -10,6 +10,6 @@ public:
 	int get();
 	void menu_exit();
 	void clear_screen();
-
+	void main_menu();
 };
 
